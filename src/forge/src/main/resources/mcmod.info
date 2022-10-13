@@ -1,0 +1,16 @@
+[
+{
+  "modid": "occchatextension",
+  "name": "Overcast Chat Extension",
+  "description": "A small forge 1.8.9 mod to add /ignore* and channel muting functionality to OCC",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Quanteey"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
